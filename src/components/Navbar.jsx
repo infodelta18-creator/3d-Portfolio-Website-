@@ -121,7 +121,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between max-w-8xl my-2 mx-4 relative">
         <a href="#hero" className="flex mx-6 items-center justify-center">
           <span className="text-md">
-            <h1 style={{ fontSize: "35px", fontWeight: "500" }}>genZcoder</h1>
+            <h1 style={{ fontSize: "35px", fontWeight: "500" }}>ByteX</h1>
             {/* <img src={logo} alt="logo" className="h-16 object-contain" /> */}
           </span>
         </a>
