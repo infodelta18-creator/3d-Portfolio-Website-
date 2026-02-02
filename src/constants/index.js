@@ -52,15 +52,15 @@ const services = [
 
 const achievements = [
   {
-    title: ["FreeCodeCamp"],
-    company_name: "freeCodeCamp",
+    title: ["ByteX"],
+    company_name: "ByteX",
     icon: fcc,
     iconBg: "#383E56",
-    date: "May 2024",
+    date: "May 2025",
     points: ["Responsive Web Design", "JavaScript"],
     credential: [
-      "https://www.youtube.com/@heygenzcoder",
-      "https://www.youtube.com/@heygenzcoder",
+      "https://instagram.com/car1movvvvv",
+      "https://instagram.com/car1movvvvv",
     ],
   },
   {
@@ -68,7 +68,7 @@ const achievements = [
     company_name: "HackerRank",
     icon: hr,
     iconBg: "#E6DEDD",
-    date: "Apr 2025",
+    date: "Aug 2025",
     points: [
       "Python (Basic) Certificate",
       "SQL (Basic) Certificate",
@@ -76,10 +76,10 @@ const achievements = [
       "Go (Basic) Certificate",
     ],
     credential: [
-      "https://www.youtube.com/@heygenzcoder",
-      "https://www.youtube.com/@heygenzcoder",
-      "https://www.youtube.com/@heygenzcoder",
-      "https://www.youtube.com/@heygenzcoder",
+      "https://instagram.com/car1movvvvv",
+      "https://instagram.com/car1movvvvv",
+      "https://instagram.com/car1movvvvv",
+      "https://instagram.com/car1movvvvv",
     ],
   },
   {
@@ -87,10 +87,10 @@ const achievements = [
     company_name: "Certiport",
     icon: cp,
     iconBg: "#383E56",
-    date: "Apr 2025",
+    date: "Aug 2025",
     points: ["IT Specialist - HTML and CSS", "IT Specialist - Databases"],
     credential: [
-      "https://www.youtube.com/@heygenzcoder",
+      "https://instagram.com/car1movvvvv",
     ],
   },
   {
@@ -98,16 +98,16 @@ const achievements = [
     company_name: "Coursera",
     icon: coursera,
     iconBg: "#0056d2",
-    date: "Jul 2025",
+    date: "Nov 2025",
     points: ["IBM Full Stack Software Developer"],
-    credential: ["https://www.youtube.com/@heygenzcoder"],
+    credential: ["https://instagram.com/car1movvvvv"],
   },
 ];
 
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but genZcoder proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but ByteX proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -115,7 +115,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like genZcoderdoes.",
+      "I've never met a web developer who truly cares about their clients' success like ByteX.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -123,7 +123,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "genZcoder boosted our website traffic by 50% through his smart optimization. We are Truly grateful!",
+      "ByteX boosted our website traffic by 150% through his smart optimization. We are Truly grateful!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -135,7 +135,7 @@ const projects = [
   {
     name: "Nova-Learn",
     description:
-      "NovaLearn is an AI-powered platform that creates personalized learning paths with interactive content and quizzes. Designed with a futuristic 3D UI, it makes learning immersive, efficient, and goal-driven. 🚀",
+      "NovaLearn is an AI-powered platform that creates personalized learning paths with interactive content and quizzes. Designed with a futuristic 3D UI, it makes learning immersive, efficient, and goal-driven. 🚀(or Netlivy®)",
     tags: [
       {
         name: "node",
@@ -159,7 +159,7 @@ const projects = [
       },
     ],
     image: novalearn,
-    source_code_link: "https://www.youtube.com/@heygenzcoder",
+    source_code_link: "https://instagram.com/car1movvvvv",
   },
   {
     name: "Multiplayer Pong Game",
@@ -180,7 +180,7 @@ const projects = [
       },
     ],
     image: ponggame,
-    source_code_link: "https://www.youtube.com/@heygenzcoder",
+    source_code_link: "https://instagram.com/car1movvvvv",
   },
 ];
 
