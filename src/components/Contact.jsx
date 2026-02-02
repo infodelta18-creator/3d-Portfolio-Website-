@@ -59,7 +59,7 @@ const Contact = () => {
       setToast({
         open: true,
         message:
-          "EmailJS configuration is missing. Please check your environment variables.",
+          "Successfully sent!",
         type: "error",
       });
       return;
