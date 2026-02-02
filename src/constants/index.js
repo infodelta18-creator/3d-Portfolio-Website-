@@ -123,10 +123,10 @@ const testimonials = [
   },
   {
     testimonial:
-      "ByteX boosted our website traffic by 150% through his smart optimization. We are Truly grateful!",
+      "ByteX has increased its company (Netlivy®) traffic by 200% through its smart optimization. We truly believe!During my time working with the CEO of Netlivy, I have learned that our CEO is determined and never gives up on completing any task. I am proud to be part of the Netlivy® team.",
     name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+    designation: "CMO",
+    company: "Netlivy®",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
