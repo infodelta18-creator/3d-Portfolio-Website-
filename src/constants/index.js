@@ -59,8 +59,8 @@ const achievements = [
     date: "May 2025",
     points: ["Responsive Web Design", "JavaScript"],
     credential: [
-      "https://instagram.com/car1movvvvv",
-      "https://instagram.com/car1movvvvv",
+      "https://instagram.com/car1movvvv",
+      "https://instagram.com/car1movvvv",
     ],
   },
   {
@@ -76,10 +76,10 @@ const achievements = [
       "Go (Basic) Certificate",
     ],
     credential: [
-      "https://instagram.com/car1movvvvv",
-      "https://instagram.com/car1movvvvv",
-      "https://instagram.com/car1movvvvv",
-      "https://instagram.com/car1movvvvv",
+      "https://instagram.com/car1movvvv",
+      "https://instagram.com/car1movvvv",
+      "https://instagram.com/car1movvvv",
+      "https://instagram.com/car1movvvv",
     ],
   },
   {
@@ -90,7 +90,7 @@ const achievements = [
     date: "Aug 2025",
     points: ["IT Specialist - HTML and CSS", "IT Specialist - Databases"],
     credential: [
-      "https://instagram.com/car1movvvvv",
+      "https://instagram.com/car1movvvv",
     ],
   },
   {
@@ -100,7 +100,7 @@ const achievements = [
     iconBg: "#0056d2",
     date: "Nov 2025",
     points: ["IBM Full Stack Software Developer"],
-    credential: ["https://instagram.com/car1movvvvv"],
+    credential: ["https://instagram.com/car1movvvv"],
   },
 ];
 
@@ -159,7 +159,7 @@ const projects = [
       },
     ],
     image: novalearn,
-    source_code_link: "https://instagram.com/car1movvvvv",
+    source_code_link: "https://instagram.com/car1movvvv",
   },
   {
     name: "Multiplayer Pong Game",
@@ -180,7 +180,7 @@ const projects = [
       },
     ],
     image: ponggame,
-    source_code_link: "https://instagram.com/car1movvvvv",
+    source_code_link: "https://instagram.com/car1movvvv",
   },
 ];
 
